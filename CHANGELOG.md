@@ -1,0 +1,99 @@
+# Changelog
+
+## [v0.5.0](https://github.com/avgvstvs96/astroSite/tree/v0.5.0) (2024-01-29)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.4.1...v0.5.0)
+
+**Merged pull requests:**
+
+- Bump astro to 4.2.6, astro-icon to 1.0.3, and astro-expressive-code to 0.32.3 [\#22](https://github.com/AVGVSTVS96/astroSite/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v0.4.1](https://github.com/avgvstvs96/astroSite/tree/v0.4.1) (2024-01-28)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.4.0...v0.4.1)
+
+**Implemented enhancements:**
+
+- Create BaseLayout, Refine SEO Schemas, and Enhance Image Handling [\#20](https://github.com/AVGVSTVS96/astroSite/pull/20) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+## [v0.4.0](https://github.com/avgvstvs96/astroSite/tree/v0.4.0) (2024-01-27)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.3.0...v0.4.0)
+
+**Implemented enhancements:**
+
+- Add theme functionality using variables, optimize script logic, update NavBar layout [\#18](https://github.com/AVGVSTVS96/astroSite/pull/18) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+**Merged pull requests:**
+
+- Bump Astro group - 2 updates [\#17](https://github.com/AVGVSTVS96/astroSite/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump Prettier dependencies - 3 updates [\#16](https://github.com/AVGVSTVS96/astroSite/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump Tailwind dependencies - 2 updates [\#15](https://github.com/AVGVSTVS96/astroSite/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump Astro  dependencies - 2 updates [\#14](https://github.com/AVGVSTVS96/astroSite/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v0.3.0](https://github.com/avgvstvs96/astroSite/tree/v0.3.0) (2024-01-21)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.2.2...v0.3.0)
+
+**Implemented enhancements:**
+
+- Add primary and accent colors defined by variables, extend core border and text colors, remove prose from h1 elements [\#13](https://github.com/AVGVSTVS96/astroSite/pull/13) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+**Merged pull requests:**
+
+- Bump vite from 5.0.10 to 5.0.12 [\#12](https://github.com/AVGVSTVS96/astroSite/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v0.2.2](https://github.com/avgvstvs96/astroSite/tree/v0.2.2) (2024-01-17)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.2.1...v0.2.2)
+
+**Implemented enhancements:**
+
+- Add content collection for projects, Projects component, add types, upgrade Astro [\#11](https://github.com/AVGVSTVS96/astroSite/pull/11) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+**Fixed bugs:**
+
+- Make page layouts responsive and mobile friendly [\#4](https://github.com/AVGVSTVS96/astroSite/issues/4)
+
+## [v0.2.1](https://github.com/avgvstvs96/astroSite/tree/v0.2.1) (2024-01-15)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.2.0...v0.2.1)
+
+**Implemented enhancements:**
+
+- Add second dropdown for all menu items under 640px, update layout and margins for small screens  [\#10](https://github.com/AVGVSTVS96/astroSite/pull/10) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+## [v0.2.0](https://github.com/avgvstvs96/astroSite/tree/v0.2.0) (2024-01-08)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/v0.1.0...v0.2.0)
+
+**Implemented enhancements:**
+
+- Add dark mode, update toc script, add sample blog posts, update styling, update Tailwind config [\#9](https://github.com/AVGVSTVS96/astroSite/pull/9) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+- Create Dropdown menu, format code [\#7](https://github.com/AVGVSTVS96/astroSite/pull/7) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+- Add table of contents to blog pages, update layout [\#6](https://github.com/AVGVSTVS96/astroSite/pull/6) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+**Fixed bugs:**
+
+- tocLinks are only marked when heading is visible in viewport [\#8](https://github.com/AVGVSTVS96/astroSite/issues/8)
+
+**Merged pull requests:**
+
+- Update tableOfContents branch with changes made in Master [\#5](https://github.com/AVGVSTVS96/astroSite/pull/5) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+## [v0.1.0](https://github.com/avgvstvs96/astroSite/tree/v0.1.0) (2023-12-18)
+
+[Full Changelog](https://github.com/avgvstvs96/astroSite/compare/e5477dc6cf4d0b5440856c44e768f9cbf5e7ecbf...v0.1.0)
+
+**Implemented enhancements:**
+
+- Migrated and Converted Flask Website to Astro Page [\#3](https://github.com/AVGVSTVS96/astroSite/pull/3) ([AVGVSTVS96](https://github.com/AVGVSTVS96))
+
+**Fixed bugs:**
+
+- Body margin-bottom is cutoff [\#2](https://github.com/AVGVSTVS96/astroSite/issues/2)
+- Content on blog post cut off [\#1](https://github.com/AVGVSTVS96/astroSite/issues/1)
+
+
+
+\* *This Changelog was automatically generated by [github_changelog_generator](https://github.com/github-changelog-generator/github-changelog-generator)*
